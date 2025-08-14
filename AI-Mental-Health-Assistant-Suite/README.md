@@ -61,5 +61,5 @@ This project is currently focused on single-turn interactions using the RAG mode
 ## Contributions & Contact
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-For questions or collaboration, contact: [mahmudalam3210@gmail.com]
+For questions or collaboration, contact: [surajshaw7136@gmail.com]
 
